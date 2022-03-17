@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS baby_backend;
+CREATE DATABASE baby_backend;
